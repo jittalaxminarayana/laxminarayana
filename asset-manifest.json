@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/laxminarayana/static/css/main.dfe81aa7.css",
+    "main.js": "/laxminarayana/static/js/main.45c03a22.js",
+    "static/js/488.0940fb11.chunk.js": "/laxminarayana/static/js/488.0940fb11.chunk.js",
+    "index.html": "/laxminarayana/index.html",
+    "main.dfe81aa7.css.map": "/laxminarayana/static/css/main.dfe81aa7.css.map",
+    "main.45c03a22.js.map": "/laxminarayana/static/js/main.45c03a22.js.map",
+    "488.0940fb11.chunk.js.map": "/laxminarayana/static/js/488.0940fb11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfe81aa7.css",
+    "static/js/main.45c03a22.js"
+  ]
+}
